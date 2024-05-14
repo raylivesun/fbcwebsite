@@ -1,4 +1,3 @@
-# Numbers and Their Opposites
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta charset="UTF-8">
