@@ -1,8 +1,8 @@
+# Numbers and Their Opposites
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script type="text/javascript" src="README_files/___vscode_livepreview_injected_script.es"></script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Numbers and Their Opposites</title>
     </head>
     <body>
         <div>
