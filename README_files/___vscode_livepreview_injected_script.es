@@ -33,7 +33,7 @@ if (window.parent !== window) {
  * @description run initialization on load.
  */
 function onLoad() {
-	const connection = new WebSocket('ws://127.0.0.1:3001/fc71ccb46edfe5eaf657fc4458cc27e5549f4b5b');
+	const connection = new WebSocket('ws://127.0.0.1:3001/837475ab5e2972f16829fe9acc49dca7e3b5d044');
 	connection.addEventListener('message', (e) => handleSocketMessage(e.data));
 
 	let onlyCtrlDown = false;
