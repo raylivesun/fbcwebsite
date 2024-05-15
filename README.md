@@ -28,6 +28,5 @@
                 absolute value, we are only interested in how far a number is from zero, not the direction.
                 Example 5: Evaluate the following absolute value expressions.</p>
         </div>
-    
-    
+        
 </body></html>
